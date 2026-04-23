@@ -1,0 +1,6 @@
+{
+  "name": "JKUAT GPS Attendance",
+  "description": "A geolocation-based attendance management system for JKUAT. Features real-time session tracking for lecturers, geofenced class check-ins for students at PAM LAB, and organized class directories.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
